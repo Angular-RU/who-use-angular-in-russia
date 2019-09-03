@@ -10,6 +10,7 @@
 | [Beta Digital Production](https://www.betaagency.ru/) | Angular | А как иначе :) | - | https://www.betaagency.ru/ |
 | [ЛК Европлан](https://europlan.ru/) | AngularJS, Angular | Angular больше подходит для больших команд | - | https://europlan.ru/ |
 | [Positive Technologies](https://www.ptsecurity.ru) | AngularJS, Angular | - | [PositiveJS](https://github.com/positive-js) | https://www.ptsecurity.ru |
+| [Первая Мониторинговая Компания](https://firstmk.ru) | Angular | Пишем систему мониторинга транспорта реального времени [Waliot](https://waliot.com) | https://github.com/firstmk | https://waliot.com |
 
 ## Добавьте свою компанию!
 
