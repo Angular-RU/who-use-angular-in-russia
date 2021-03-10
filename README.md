@@ -1,17 +1,18 @@
-# Кто использует Angular в России?
-Список компаний, которые используют Angular / AngularJS в России
+# Who uses Angular in Russia?
+
+List of companies using Angular / AngularJS in Russia
+
+## Add your company!
+
+You can add your company to the above list by sending us a pull request!
 
 ## Companies
 
-| Имя компании | Версия | Зачем нам Angular | GitHub | Public URL |
-| ------------ | ------- | ------- | ------- | ------- |
-| [Tinkoff](https://www.tinkoff.ru/) | Angular | Российский коммерческий банк, сфокусированный полностью на дистанционном обслуживании, не имеющий розничных отделений. | - | https://www.tinkoff.ru/ |
-| [Cinimex](https://www.cinimex.ru/) | AngularJS, Angular | Улучшение инвестиционного опыта для всех. | - | https://www.cinimex.ru/ |
-| [Beta Digital Production](https://www.betaagency.ru/) | Angular | А как иначе :) | - | https://www.betaagency.ru/ |
-| [ЛК Европлан](https://europlan.ru/) | AngularJS, Angular | Angular больше подходит для больших команд | - | https://europlan.ru/ |
-| [Positive Technologies](https://www.ptsecurity.ru) | AngularJS, Angular | - | [PositiveJS](https://github.com/positive-js) | https://www.ptsecurity.ru |
-| [Первая Мониторинговая Компания](https://firstmk.ru) | Angular | Пишем систему мониторинга транспорта реального времени [Waliot](https://waliot.com) | https://github.com/waliot | https://waliot.com |
-
-## Добавьте свою компанию!
-
-Вы можете добавить свою компанию в вышеуказанный список, отправив нам pull request!
+| Company                                               | Version            | Why                                                                                           | GitHub                         | Public URL                 |
+| ----------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
+| [Tinkoff](https://www.tinkoff.ru/)                    | Angular            | A Russian commercial bank that is fully focused on remote banking and has no retail branches. | -                              | https://www.tinkoff.ru/    |
+| [Cinimex](https://www.cinimex.ru/)                    | AngularJS, Angular | Improving the investment experience for everyone.                                             | -                              | https://www.cinimex.ru/    |
+| [Beta Digital Production](https://www.betaagency.ru/) | Angular            | -                                                                                             | -                              | https://www.betaagency.ru/ |
+| [ЛК Европлан](https://europlan.ru/)                   | AngularJS, Angular | Angular is more suited for large teams.                                                       | -                              | https://europlan.ru/       |
+| [Positive Technologies](https://www.ptsecurity.ru)    | AngularJS, Angular | -                                                                                             | https://github.com/positive-js | https://www.ptsecurity.ru  |
+| [Первая Мониторинговая Компания](https://firstmk.ru)  | Angular            | We are writing a real-time transport monitoring system                                        | https://github.com/waliot      | https://waliot.com         |
